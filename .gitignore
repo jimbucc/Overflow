@@ -1,0 +1,11 @@
+﻿/shelf/
+/workspace.xml
+/contentModel.xml
+/.idea.Overflow.iml
+/projectSettingsUpdater.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+*.dll
+*.cache
+*.pdb
