@@ -120,7 +120,6 @@ M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Overflow.App
 M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Overflow.AppHost.AssemblyInfoInputs.cache
 M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Overflow.AppHost.AssemblyInfo.cs
 M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Overflow.AppHost.csproj.CoreCompileInputs.cache
-M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Aspire\references\.ProjectMetadata.g.cs
 M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Aspire\references\_AppHost.ProjectMetadata.g.cs
 M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Overflow.2A6891A2.Up2Date
 M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Overflow.AppHost.dll
@@ -129,3 +128,8 @@ M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Overflow.App
 M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Overflow.AppHost.genruntimeconfig.cache
 M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\ref\Overflow.AppHost.dll
 M:\Development\AspireDev\Overflow\Overflow.AppHost\bin\Debug\net9.0\Aspire.Hosting.Keycloak.dll
+M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Aspire\references\QuestionService.ProjectMetadata.g.cs
+M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Overflow.AppHost.sourcelink.json
+M:\Development\AspireDev\Overflow\Overflow.AppHost\bin\Debug\net9.0\Aspire.Hosting.PostgreSQL.dll
+M:\Development\AspireDev\Overflow\Overflow.AppHost\bin\Debug\net9.0\HealthChecks.NpgSql.dll
+M:\Development\AspireDev\Overflow\Overflow.AppHost\bin\Debug\net9.0\Npgsql.dll

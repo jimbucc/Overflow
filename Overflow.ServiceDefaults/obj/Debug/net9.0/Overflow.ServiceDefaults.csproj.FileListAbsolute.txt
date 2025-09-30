@@ -1,0 +1,13 @@
+M:\Development\AspireDev\Overflow\Overflow.ServiceDefaults\bin\Debug\net9.0\Overflow.ServiceDefaults.deps.json
+M:\Development\AspireDev\Overflow\Overflow.ServiceDefaults\bin\Debug\net9.0\Overflow.ServiceDefaults.dll
+M:\Development\AspireDev\Overflow\Overflow.ServiceDefaults\bin\Debug\net9.0\Overflow.ServiceDefaults.pdb
+M:\Development\AspireDev\Overflow\Overflow.ServiceDefaults\obj\Debug\net9.0\Overflow.ServiceDefaults.csproj.AssemblyReference.cache
+M:\Development\AspireDev\Overflow\Overflow.ServiceDefaults\obj\Debug\net9.0\Overflow.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+M:\Development\AspireDev\Overflow\Overflow.ServiceDefaults\obj\Debug\net9.0\Overflow.ServiceDefaults.AssemblyInfoInputs.cache
+M:\Development\AspireDev\Overflow\Overflow.ServiceDefaults\obj\Debug\net9.0\Overflow.ServiceDefaults.AssemblyInfo.cs
+M:\Development\AspireDev\Overflow\Overflow.ServiceDefaults\obj\Debug\net9.0\Overflow.ServiceDefaults.csproj.CoreCompileInputs.cache
+M:\Development\AspireDev\Overflow\Overflow.ServiceDefaults\obj\Debug\net9.0\Overflow.ServiceDefaults.sourcelink.json
+M:\Development\AspireDev\Overflow\Overflow.ServiceDefaults\obj\Debug\net9.0\Overflow.ServiceDefaults.dll
+M:\Development\AspireDev\Overflow\Overflow.ServiceDefaults\obj\Debug\net9.0\refint\Overflow.ServiceDefaults.dll
+M:\Development\AspireDev\Overflow\Overflow.ServiceDefaults\obj\Debug\net9.0\Overflow.ServiceDefaults.pdb
+M:\Development\AspireDev\Overflow\Overflow.ServiceDefaults\obj\Debug\net9.0\ref\Overflow.ServiceDefaults.dll
