@@ -8,6 +8,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{57
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionService", "QuestionService\QuestionService.csproj", "{30D4C086-4E0E-4F1A-8E51-C2F03E84FE46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchService", "SearchService\SearchService.csproj", "{AC819F81-6CA0-4CF5-B1A6-61393DF28EC5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{32426A36-9BC0-480B-B174-FD5D7C87D2DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{CAA9B6A9-9FAA-42AC-8C0D-65093D69AA1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,8 +32,18 @@ Global
 		{30D4C086-4E0E-4F1A-8E51-C2F03E84FE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30D4C086-4E0E-4F1A-8E51-C2F03E84FE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30D4C086-4E0E-4F1A-8E51-C2F03E84FE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC819F81-6CA0-4CF5-B1A6-61393DF28EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC819F81-6CA0-4CF5-B1A6-61393DF28EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC819F81-6CA0-4CF5-B1A6-61393DF28EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC819F81-6CA0-4CF5-B1A6-61393DF28EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA9B6A9-9FAA-42AC-8C0D-65093D69AA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA9B6A9-9FAA-42AC-8C0D-65093D69AA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA9B6A9-9FAA-42AC-8C0D-65093D69AA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA9B6A9-9FAA-42AC-8C0D-65093D69AA1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{30D4C086-4E0E-4F1A-8E51-C2F03E84FE46} = {5738949B-7F6E-4384-8890-FEBD27FE805E}
+		{AC819F81-6CA0-4CF5-B1A6-61393DF28EC5} = {5738949B-7F6E-4384-8890-FEBD27FE805E}
+		{CAA9B6A9-9FAA-42AC-8C0D-65093D69AA1F} = {32426A36-9BC0-480B-B174-FD5D7C87D2DE}
 	EndGlobalSection
 EndGlobal

@@ -133,3 +133,7 @@ M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Overflow.App
 M:\Development\AspireDev\Overflow\Overflow.AppHost\bin\Debug\net9.0\Aspire.Hosting.PostgreSQL.dll
 M:\Development\AspireDev\Overflow\Overflow.AppHost\bin\Debug\net9.0\HealthChecks.NpgSql.dll
 M:\Development\AspireDev\Overflow\Overflow.AppHost\bin\Debug\net9.0\Npgsql.dll
+M:\Development\AspireDev\Overflow\Overflow.AppHost\obj\Debug\net9.0\Aspire\references\SearchService.ProjectMetadata.g.cs
+M:\Development\AspireDev\Overflow\Overflow.AppHost\bin\Debug\net9.0\Aspire.Hosting.RabbitMQ.dll
+M:\Development\AspireDev\Overflow\Overflow.AppHost\bin\Debug\net9.0\HealthChecks.Rabbitmq.dll
+M:\Development\AspireDev\Overflow\Overflow.AppHost\bin\Debug\net9.0\RabbitMQ.Client.dll
